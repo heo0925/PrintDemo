@@ -1,5 +1,5 @@
 # 변수 선언
-name = "heoseungjun"
+name = "허승준"
 age = 23
 score = 95.5
 
